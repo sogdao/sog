@@ -1,1 +1,1 @@
-# sog
+# Sog coin for everyone.
