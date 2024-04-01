@@ -1,2 +1,1 @@
-About Sog:
-(Alias: Solana Dog Coin)
+Sog alias: Solana Dog Coin.
