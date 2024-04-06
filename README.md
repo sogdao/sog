@@ -1,1 +1,1 @@
-Sog(SuperDog).
+$Sog(SuperDog) for everyone.
