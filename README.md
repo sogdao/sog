@@ -1,1 +1,1 @@
-Sog alias: Solana Dog Coin.
+Sog(SuperDog).
