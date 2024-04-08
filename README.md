@@ -1,1 +1,1 @@
-$Sog(SuperDog) for everyone.
+$Sog(SuperDog) coin for everyone.
